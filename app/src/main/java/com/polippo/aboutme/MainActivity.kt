@@ -3,13 +3,8 @@ package com.polippo.aboutme
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.renderscript.ScriptGroup
 import android.view.View
-import android.view.inputmethod.InputMethod
 import android.view.inputmethod.InputMethodManager
-import android.widget.Button
-import android.widget.EditText
-import android.widget.TextView
 import androidx.databinding.DataBindingUtil
 import com.polippo.aboutme.databinding.ActivityMainBinding
 
