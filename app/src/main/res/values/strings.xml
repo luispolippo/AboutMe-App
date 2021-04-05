@@ -9,4 +9,6 @@
         Donec eu vehicula sem, a consequat felis.
     </string>
     <string name="bio_image">Bio Image</string>
+    <string name="whats_your_nickname">Whats your Nickname?</string>
+    <string name="done">Done</string>
 </resources>
